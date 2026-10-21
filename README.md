@@ -325,6 +325,14 @@ See [ROADMAP.md](./docs/ROADMAP.md) for detailed breakdown.
   <a href="https://github.com/KevinMB0220">
     <img src="https://avatars.githubusercontent.com/u/130603817?v=4" width="100px;" style="border-radius:50%;" alt="KevinMB0220"/><br />
     <sub><b>🥇 @KevinMB0220</b></sub><br />
+    <sub>10 contributions</sub>
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://github.com/ryzen-xp">
+    <img src="https://avatars.githubusercontent.com/u/92181599?v=4" width="100px;" style="border-radius:50%;" alt="ryzen-xp"/><br />
+    <sub><b>🥈 @ryzen-xp</b></sub><br />
     <sub>9 contributions</sub>
   </a>
 </td>
@@ -332,15 +340,7 @@ See [ROADMAP.md](./docs/ROADMAP.md) for detailed breakdown.
 <td align="center">
   <a href="https://github.com/Bosun-Josh121">
     <img src="https://avatars.githubusercontent.com/u/96661657?v=4" width="100px;" style="border-radius:50%;" alt="Bosun-Josh121"/><br />
-    <sub><b>🥈 @Bosun-Josh121</b></sub><br />
-    <sub>8 contributions</sub>
-  </a>
-</td>
-
-<td align="center">
-  <a href="https://github.com/ryzen-xp">
-    <img src="https://avatars.githubusercontent.com/u/92181599?v=4" width="100px;" style="border-radius:50%;" alt="ryzen-xp"/><br />
-    <sub><b>🥉 @ryzen-xp</b></sub><br />
+    <sub><b>🥉 @Bosun-Josh121</b></sub><br />
     <sub>8 contributions</sub>
   </a>
 </td>
